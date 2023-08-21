@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxt/image-edge',
+    '@nuxt/devtools',
     '@nuxtjs/i18n',
   ],
   experimental: {
@@ -26,6 +27,10 @@ export default defineNuxtConfig({
   },
   devtools: {
     enabled: true,
+
+    timeline: {
+      enabled: true,
+    },
   },
   image: {
     provider: 'proxy',
