@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     '@nuxt/image-edge',
     '@nuxt/devtools',
     '@nuxtjs/i18n',
-    '@nuxt/image',
+    '@nuxt/image'
   ],
   experimental: {
     inlineSSRStyles: false,
