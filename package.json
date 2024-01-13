@@ -11,7 +11,8 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "nuxi": "^3.9.1",
+    "nuxi": "^3.10.0",
+    "nuxt": "3.9.1",
     "unstorage": "^1.10.1",
     "upgrade": "^1.1.0",
     "vue-router-better-scroller": "^0.0.0"
@@ -19,16 +20,16 @@
   "devDependencies": {
     "@antfu/eslint-config": "^0.39.5",
     "@iconify-json/carbon": "^1.1.17",
-    "@iconify-json/cib": "^1.1.4",
-    "@iconify-json/ph": "^1.1.5",
+    "@iconify-json/cib": "^1.1.8",
+    "@iconify-json/ph": "^1.1.10",
     "@iconify-json/simple-icons": "^1.1.55",
-    "@iconify-json/twemoji": "^1.1.11",
-    "@nuxt/devtools": "^1.0.2",
+    "@iconify-json/twemoji": "^1.1.15",
+    "@nuxt/devtools": "^1.0.8",
     "@nuxt/image": "1.0.0",
-    "@nuxt/image-edge": "1.0.0-rc.1-28105270.a3967a7",
+    "@nuxt/image-edge": "^1.2.0-28417792.5fb7d0e",
     "@nuxtjs/color-mode": "^3.2.0",
-    "@nuxtjs/i18n": "8.0.0-rc.3",
-    "@pinia/nuxt": "^0.4.11",
+    "@nuxtjs/i18n": "^8.0.0",
+    "@pinia/nuxt": "^0.5.1",
     "@unocss/nuxt": "^0.53.1",
     "@vueuse/nuxt": "^10.1.2",
     "eslint": "^8.42.0",
