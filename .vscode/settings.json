@@ -1,6 +1,5 @@
 {
   "cSpell.words": [
     "TMDB"
-  ],
-  "typescript.tsdk": "node_modules/typescript/lib"
+  ]
 }
