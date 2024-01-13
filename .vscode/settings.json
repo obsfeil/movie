@@ -60,5 +60,6 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "FSharp.suggestGitignore": false,
-  "cmake.sourceDirectory": "C:/msys64"
+  "cmake.sourceDirectory": "C:/msys64/mingw64",
+  "nuxtr.defaultPackageManager": "pnpm"
 }
